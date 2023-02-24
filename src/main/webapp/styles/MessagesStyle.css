@@ -1,0 +1,31 @@
+.my-header-1 {
+	padding: 10px 25px 0px 25px;
+	background-color: lightgray;
+}
+
+.my-header-2 {
+	padding: 10px 50px 10px 50px;
+}
+
+h3 {
+	font-family: 'Rowdies', cursive;
+	margin-top: 10px;
+}
+
+.my-table {
+	width: calc( 100% - 100px );
+	margin: 25px 50px;
+}
+
+.my-table th,
+.my-table td {
+	padding: 7px;
+}
+
+.unreadMessage {
+	font-weight: bold;
+}
+
+.readMessage {
+	font-weight: normal;
+}

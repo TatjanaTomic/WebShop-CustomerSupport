@@ -1,0 +1,33 @@
+h1 {
+	font-family: 'Rowdies', cursive;
+	text-align: center;
+	margin-top: 55px;
+}
+
+form {
+	width: 45vw;
+	padding: 55px;
+	margin: 55px auto;
+	border: 1px solid silver;
+	border-radius: 35px;
+	background-color: #e0e0e0;
+}
+
+button {
+	margin-top: 50px;
+}
+
+.errorMessage {
+	color: red;
+	font-family: 'Rowdies', cursive;
+}
+
+.loginBackground {
+	background: url('../images/bg.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
+
+.loginContent {
+	width: fit-content;
+	margin: 0px 50px auto auto;
+}
